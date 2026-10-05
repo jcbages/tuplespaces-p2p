@@ -1,7 +1,7 @@
 # tuplespaces-p2p
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RD17/ambar/blob/master/License.txt)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 :tophat: Tuple Spaces implementation in Java for P2P communication.
 
